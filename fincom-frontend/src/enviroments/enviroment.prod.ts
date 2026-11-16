@@ -1,6 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://fincom-backend.onrender.com'
-
+  apiUrl: 'https://fincomp-4kcn.vercel.app/api'
 
 };
